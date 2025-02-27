@@ -1,0 +1,18 @@
+h1 {
+    color: red;
+    text-align: center;
+}
+body {
+    background-color: beige;
+    font-family: 'Times New Roman', sans-serif;
+}
+p {
+    color:black;
+    text-align: justify;
+    font-size: 20px;
+}
+li {
+    color: black;
+    text-align: justify;
+    font-size: 20px;
+}
